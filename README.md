@@ -2,7 +2,7 @@
 Beginners Project creating restful api
 
 models:
-    - book
+    - book <br/>
 routes:
     - books
       - books/add
